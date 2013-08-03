@@ -10,8 +10,8 @@ This build possibly won't be maintained as I don't own one of these controllers,
 Usage
 -----
 
-# Change to your OpenElec.TV/packages/tools directory.
-# Clone this repository to a 'xboxdrv' directory.
-# Change to your OpenElec.TV source directory.
-# PROJECT=<PROJECT> ARCH=<ARCHITECT> ./scripts/build xboxdrv
-# # ex. PROJECT=Intel ARCH=x86_64 ./scripts/build xboxdrv
+* Change to your OpenElec.TV/packages/tools directory.
+* Clone this repository to a 'xboxdrv' directory.
+* Change to your OpenElec.TV source directory.
+* PROJECT=<PROJECT> ARCH=<ARCHITECT> ./scripts/build xboxdrv
+ * example: PROJECT=Intel ARCH=x86_64 ./scripts/build xboxdrv
