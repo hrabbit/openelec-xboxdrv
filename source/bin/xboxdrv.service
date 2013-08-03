@@ -1,0 +1,6 @@
+#!/bin/sh
+
+. /etc/profile
+
+sleep 1 && \
+echo "Need startup/configuration command here" &
