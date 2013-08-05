@@ -19,4 +19,3 @@ PKG_LONGDESC="xboxdrv is a driver to add support for Xbox360 controller to the s
 PKG_IS_ADDON="yes"
 PKG_ADDON_TYPE="xbmc.service"
 PKG_AUTORECONF="no"
-#PKG_CONFIG_PATH="${PKG_CONFIG_PATH}:build.OpenELEC-Intel.x86_64-devel/systemd-205/src/libudev:build.OpenELEC-Intel.x86_64-devel/libusb-1.0.9"
