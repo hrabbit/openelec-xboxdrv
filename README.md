@@ -9,7 +9,7 @@ This build possibly won't be maintained as I don't own one of these controllers,
 
 Disclaimer
 ----------
-This bundle actually doesn't build at this point, it will eventually an hopefully will create a proper usable package but in the meantime, please be patient.
+This bundle actually doesn't build at this point, it will eventually and hopefully will create a proper usable package but in the meantime, please be patient.
 
 Usage
 -----
